@@ -2,6 +2,11 @@
 
 This repository contains the code for a project implementing facial verification using a Siamese Network. The project also includes a real-time application built with Kivy and OpenCV.
 
+**Demo**
+
+https://github.com/hamatoatef/Facial-Verification-with-a-Siamese-Network/assets/88297240/0a7b3308-390a-4e3a-88f7-b7fab3db5941
+
+
 **Project Overview:**
 
 * Converts a research paper on Siamese Networks into functional Python code.
